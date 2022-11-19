@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "http://ali.eisonya.com:3000/"
+    }
+  ]
+}
